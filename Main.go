@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/function"
+import _struct "go-learning/struct"
 
 func main() {
-	function.MyFunction()
+	_struct.MyStruct()
 }
