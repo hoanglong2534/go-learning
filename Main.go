@@ -1,9 +1,7 @@
 package main
 
-import (
-	"go-learning/array"
-)
+import "go-learning/slice"
 
 func main() {
-	array.Array()
+	slice.MySlice()
 }
