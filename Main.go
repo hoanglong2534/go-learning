@@ -1,7 +1,9 @@
 package main
 
-import for_loop "go-learning/for-loop"
+import (
+	"go-learning/array"
+)
 
 func main() {
-	for_loop.ForLoop()
+	array.Array()
 }
