@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/constant"
+import for_loop "go-learning/for-loop"
 
 func main() {
-	constant.Constant()
+	for_loop.ForLoop()
 }
