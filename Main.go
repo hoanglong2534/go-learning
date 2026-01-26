@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/slice"
+import _map "go-learning/map"
 
 func main() {
-	slice.MySlice()
+	_map.MyMap()
 }
