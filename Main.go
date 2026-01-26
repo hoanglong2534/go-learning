@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/values"
+import "go-learning/variables"
 
 func main() {
-	values.Values()
+	variables.Variables()
 }
