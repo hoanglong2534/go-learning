@@ -1,7 +1,7 @@
 package main
 
-import _map "go-learning/map"
+import "go-learning/function"
 
 func main() {
-	_map.MyMap()
+	function.MyFunction()
 }
