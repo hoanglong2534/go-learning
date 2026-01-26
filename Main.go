@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/variables"
+import "go-learning/constant"
 
 func main() {
-	variables.Variables()
+	constant.Constant()
 }
