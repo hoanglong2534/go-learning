@@ -1,7 +1,7 @@
 package main
 
-import hello_world "go-learning/hello-world"
+import "go-learning/values"
 
 func main() {
-	hello_world.HelloGolang()
+	values.Values()
 }
