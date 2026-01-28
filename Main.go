@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/enums"
+import struct_embedding "go-learning/struct/struct-embedding"
 
 func main() {
-	enums.MyEnums()
+	struct_embedding.MyStructEmbedding()
 }
