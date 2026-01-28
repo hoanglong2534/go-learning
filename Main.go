@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/methods"
+import "go-learning/interfaces"
 
 func main() {
-	methods.MyMethods()
+	interfaces.MyInterface()
 }
