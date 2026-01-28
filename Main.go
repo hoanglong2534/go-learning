@@ -1,7 +1,7 @@
 package main
 
-import struct_embedding "go-learning/struct/struct-embedding"
+import errors "go-learning/errors"
 
 func main() {
-	struct_embedding.MyStructEmbedding()
+	errors.MyError()
 }
