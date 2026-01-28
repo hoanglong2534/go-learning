@@ -1,7 +1,7 @@
 package main
 
-import "go-learning/interfaces"
+import "go-learning/enums"
 
 func main() {
-	interfaces.MyInterface()
+	enums.MyEnums()
 }
