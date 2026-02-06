@@ -1,7 +1,7 @@
 package main
 
-import errors "go-learning/errors"
+import Goroutine___concurrency "go-learning/concurrency"
 
 func main() {
-	errors.MyError()
+	Goroutine___concurrency.MyRoutine()
 }
