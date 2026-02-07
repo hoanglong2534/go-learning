@@ -1,7 +1,9 @@
 package main
 
-import "go-learning/concurrency"
+import (
+	rate_condition "go-learning/race-condition"
+)
 
 func main() {
-	concurrency.MyWaitGroup()
+	rate_condition.MyRate()
 }
